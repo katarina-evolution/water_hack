@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Water Hack application is a desktop Java application designed to help users track their daily water intake. With this app, you can easily add and remove water entries throughout the day to ensure you meet your hydration goals.
+The Water Hack application is a desktop Java application designed to assist users in tracking their daily water intake. Recognizing the importance of hydration for overall health, this application provides a user-friendly interface to help users manage their fluid consumption effectively.
 
 ## Key Features
 
